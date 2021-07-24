@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@devexperts/remote-data-ts": "^2.0.5",
+    "@types/content-type": "^1.1.5",
+    "content-type": "^1.0.4",
+    "fp-ts": "^2.10.5",
+    "fp-ts-rxjs": "^0.6.15",
+    "io-ts": "^2.2.16",
+    "rxjs": "^7.2.0"
+  }
+}
